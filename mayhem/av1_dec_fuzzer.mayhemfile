@@ -1,0 +1,4 @@
+project: PROJECT
+target: av1_dec_fuzzer
+cmds:
+- cmd: /out/av1_dec_fuzzer
